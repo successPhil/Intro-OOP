@@ -40,7 +40,7 @@
 
 20.	Once you have created all methods, run your tests, and take a screen-shot of your output to include with your project.  Text output is OK, does not have to be a screen-shot.
 
-21.	Create javadoc comments for the PlayerPiece class.  You should comment the class itself, every method, every parameter, and every return value in this class.  You can select Tools → Project Documentation or just press (ctrl + j) to view your current documentation.  The GameBoard class has already been commented for you.  If a box pops up asking to view or regenerate, make sure you click “regenerate”.  This will recreate the javadocs based on the javadoc comments that you place within your code.  (You can access a commented version of GameBoard.java.txt under the Lab04 heading.  We do not need this class to complete this lab however, so it is not included in your BlueJ project).
+21.	Create javadoc comments for the PlayerPiece class.  You should comment the class itself, every method, every parameter, and every return value in this class.  You can select Tools → Project Documentation or just press (ctrl + j) to view your current documentation.  The GameBoard class has already been commented for you.  If a box pops up asking to view or regenerate, make sure you click “regenerate”.  This will recreate the javadocs based on the javadoc comments that you place within your code.  (You can access a commented version of GameBoard.java.txt under the exercise03/GameBoard.java.  We do not need this class to complete this lab however, so it is not included in your BlueJ project).
 
 	
    
